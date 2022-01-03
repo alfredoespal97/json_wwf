@@ -2,7 +2,7 @@
   "films": [{
     "id": 1,
     "name": "Harry Potter y la piedra filosofal",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf1.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf1.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Harry Potter y la cámara secreta",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf2.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "Harry Potter y el prisionero de Azkaban",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf3.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf3.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "name": "Harry Potter y el cáliz de fuego",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf4.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf4.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "name": "Harry Potter y la Orden del Fénix",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf5.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf5.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "name": "Harry Potter y el príncipe mestizo",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf6.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf6.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "name": "Harry Potter y las reliquias de la muerte - Parte 1",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf7.png",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf7.png",
     "type": [
       "Adventure",
       "Fantastic"
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "name": "Harry Potter y las reliquias de la muerte - Parte 2",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf8.png",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf8.png",
     "type": [
       "Adventure",
       "Fantastic"
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "name": "Animales fantásticos y dónde encontrarlos",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf9.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf9.jpg",
     "type": [
       "Adventure",
       "Fantastic"
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "name": "Animales fantásticos: Los crímenes de Grindelwald",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf10.png",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf10.png",
     "type": [
       "Adventure",
       "Fantastic"
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "name": "Animales fantásticos: Los secretos de Dumbledore",
-    "img": "https://github.com/alfredoespal97/json_wwf/blob/main/assets/wwf11.jpg",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf11.jpg",
     "type": [
       "Adventure",
       "Fantastic"
