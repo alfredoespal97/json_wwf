@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/wwf.json
+///assets///
+https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf1.jpg
