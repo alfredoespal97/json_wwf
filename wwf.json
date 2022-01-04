@@ -1,5 +1,6 @@
 {
-  "films": [{
+  "films": [
+  {
     "id": 1,
     "name": "Harry Potter y la piedra filosofal",
     "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf1.jpg",
@@ -141,6 +142,6 @@
 	"duration": "por definir",
 	"director": "David Yates",
 	"description": "alguna",
-  },
-  ]
+  }
+   ]
 }
